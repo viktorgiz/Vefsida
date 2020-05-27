@@ -1,0 +1,24 @@
+{
+  "name": "cruise-master",
+  "version": "1.0.0",
+  "description": "Framleidsluferli_vefsida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browser-sync": "browser-sync start --server --files index.html styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorgiz/Framleidsluferli_vhg6.git"
+  },
+  "author": "Viktor Helgi Gizurarson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorgiz/Framleidsluferli_vhg6/issues"
+  },
+  "homepage": "https://github.com/viktorgiz/Framleidsluferli_vhg6#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
